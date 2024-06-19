@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakuna</h1>
 <h3 align="center">An undergraduate at UCSC</h3>
----
+
 - 🌱 I’m currently learning **Java, Javascript, php, React, Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakunasanka](https://github.com/sakunasanka)
